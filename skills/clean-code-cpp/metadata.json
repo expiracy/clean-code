@@ -1,0 +1,19 @@
+{
+  "name": "clean-code-cpp",
+  "version": "1.0.0",
+  "technology": "C++17; later-standard facilities require explicit project support",
+  "license": "MIT",
+  "upstream_version": "1.0.7",
+  "upstream_repository": "https://github.com/pproenca/dot-skills",
+  "upstream_commit": "cf93c57cac89d6fc3e4194686000411567f5caf3",
+  "upstream_path": "skills/.experimental/clean-code",
+  "rule_count": 48,
+  "abstract": "Independent C++ adaptation of the 48 Clean Code rule references, with ownership, resource lifetime, error policy, and modern C++ design caveats.",
+  "references": [
+    "https://www.oreilly.com/library/view/clean-code-a/9780136083238/",
+    "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+    "https://en.cppreference.com/w/cpp/language/identifiers",
+    "https://en.cppreference.com/w/cpp/utility/optional",
+    "https://en.cppreference.com/w/cpp/container/map/extract"
+  ]
+}
